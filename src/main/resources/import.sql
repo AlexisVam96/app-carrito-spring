@@ -1,0 +1,12 @@
+INSERT INTO productos (nombre, imagen , descripcion , precio, stock) VALUES ( 'IBUPROFENO', null, 'Ibuprofeno 800mg Tabletas recubierta', '18.5', '36');
+INSERT INTO productos (nombre, imagen , descripcion , precio, stock) VALUES ( 'NEBULISADOR', null, 'Nebulizador Compresor de Aire W003 - Caja 1 UN', '210', '50');
+INSERT INTO productos (nombre, imagen , descripcion , precio, stock) VALUES ( 'MUCOSOLVAN', null, 'Mucosolvan 30mg/5ml Jarabe Adulto - Frasco 120 ML', '20.5', '100');
+INSERT INTO productos (nombre, imagen , descripcion , precio, stock) VALUES (  'ACI-TIP', null, 'Aci-Tip 800mg-60mg/10ml Suspensión - Frasco 200 ML', '23', '100');
+INSERT INTO productos (nombre, imagen , descripcion , precio, stock) VALUES ( 'AMOXICILINA', null, 'Amoxicilina 500mg Tabletas Recubiertas - Caja 100 UN', '19', '100');
+INSERT INTO productos (nombre, imagen , descripcion , precio, stock) VALUES ( 'OXIMETRO', null, 'Oxímetro de Pulso Fingertip LED - Caja 1 UN', '149.9', '50');
+INSERT INTO productos (nombre, imagen , descripcion , precio, stock) VALUES ( 'IBUPROFENO', null, 'Ibuprofeno 800mg Tabletas recubierta', '18.5', '36');
+INSERT INTO productos (nombre, imagen , descripcion , precio, stock) VALUES ( 'NEBULISADOR', null, 'Nebulizador Compresor de Aire W003 - Caja 1 UN', '210', '50');
+INSERT INTO productos (nombre, imagen , descripcion , precio, stock) VALUES ( 'MUCOSOLVAN', null, 'Mucosolvan 30mg/5ml Jarabe Adulto - Frasco 120 ML', '20.5', '100');
+INSERT INTO productos (nombre, imagen , descripcion , precio, stock) VALUES (  'ACI-TIP', null, 'Aci-Tip 800mg-60mg/10ml Suspensión - Frasco 200 ML', '23', '100');
+INSERT INTO productos (nombre, imagen , descripcion , precio, stock) VALUES ( 'AMOXICILINA', null, 'Amoxicilina 500mg Tabletas Recubiertas - Caja 100 UN', '19', '100');
+INSERT INTO productos (nombre, imagen , descripcion , precio, stock) VALUES ( 'OXIMETRO', null, 'Oxímetro de Pulso Fingertip LED - Caja 1 UN', '149.9', '50');
